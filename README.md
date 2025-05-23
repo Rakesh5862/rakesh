@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 <h1 align="center">🚀 Credit Card Fraud Detection using Machine Learning Models</h1>
-A project to detect the Credit Card Fraud Detection using Machine Learning Models like- Logistic Regression, Decision Tree, KNN and Random Forest Model.
-
+A project to detect Credit Card Fraud using Machine Learning Models like Logistic Regression, Decision Tree, KNN, and Random Forest Model, involving preprocessing steps such as feature scaling and data balancing to enhance performance, where each model is evaluated using key metrics to determine its effectiveness in accurately identifying fraudulent transactions.
 <h2>📌 Project Overview</h2>
 <p>
-  Credit card fraud detection is crucial for financial security. This project uses multiple Machine Learning models to classify transactions as fraudulent or legitimate.
-  Due to class imbalance (fraud cases are rare), <b>SMOTE (Synthetic Minority Over-sampling Technique)</b> is applied to balance the dataset.
+  This project focuses on detecting fraudulent credit card transactions using multiple machine learning models. Given the significant class imbalance in real-world fraud data, SMOTE (Synthetic Minority Over-sampling Technique) is used to balance the dataset.
 </p>
 
 <h2>📂 Dataset Information</h2>
@@ -95,7 +92,5 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn joblib
 </ul>
 
 <h2>👨‍💻 Author</h2>
-<p>🚀 <b>M.Rakesh Dora</b> | 🌍 GitHub: <a href="https://github.com/aradhana-56">GitHub</a> | 🔗 LinkedIn: <a href="https://www.linkedin.com/in/aradhana-patra-8694642b5">LinkedIn</a></p>
-=======
- Credit card fraud detection is crucial for financial security.
->>>>>>> 8b6b4e6a2fdfa0ba3717217d0e23e9208b577262
+<p>🚀 <b>M.Rakesh Dora</b> | 🌍 GitHub: <a href="https://github.com/Rakesh5862">GitHub</a> | 🔗 LinkedIn: <a href="http://linkedin.com/in/m-rakesh-dora-5a9b4a290">LinkedIn</a></p>
+
